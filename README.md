@@ -1,6 +1,5 @@
 # 🚀 Mini Projects Collection
 
-![Project Banner](https://via.placeholder.com/1200x300?text=Mini+Projects+Collection)
 
 Welcome to my collection of exciting mini projects! Each project showcases different skills and technologies in web development. Dive in and explore!
 
@@ -18,7 +17,6 @@ Welcome to my collection of exciting mini projects! Each project showcases diffe
 
 ## 1. User Management System (CRUD)
 
-![UMS Screenshot](https://via.placeholder.com/600x300?text=User+Management+System)
 
 A comprehensive User Management System with CRUD operations, session management, and authentication.
 
@@ -37,7 +35,6 @@ A comprehensive User Management System with CRUD operations, session management,
 
 ## 2. OLX Clone
 
-![OLX Clone Screenshot](https://via.placeholder.com/600x300?text=OLX+Clone)
 
 An OLX-like web application for buying and selling items.
 
@@ -53,7 +50,6 @@ An OLX-like web application for buying and selling items.
 
 ## 3. Netflix Clone
 
-![Netflix Clone Screenshot](https://via.placeholder.com/600x300?text=Netflix+Clone)
 
 A Netflix-inspired web application for browsing and watching video content.
 
@@ -71,7 +67,6 @@ A Netflix-inspired web application for browsing and watching video content.
 
 ## 4. To-Do App
 
-![To-Do App Screenshot](https://via.placeholder.com/600x300?text=To-Do+App)
 
 A visually appealing task management application.
 
@@ -87,7 +82,6 @@ A visually appealing task management application.
 
 ## 5. NLP Project
 
-![NLP Project Screenshot](https://via.placeholder.com/600x300?text=NLP+Project)
 
 A Natural Language Processing application with various features.
 
@@ -110,7 +104,6 @@ A Natural Language Processing application with various features.
 
 ## 6. Portfolio Website
 
-![Portfolio Screenshot](https://via.placeholder.com/600x300?text=Portfolio+Website)
 
 A modern, responsive portfolio website showcasing projects and skills.
 
@@ -131,7 +124,6 @@ A modern, responsive portfolio website showcasing projects and skills.
 
 ## 7. Video TrackerView Platform
 
-![Video Platform Screenshot](https://via.placeholder.com/600x300?text=Video+TrackerView+Platform)
 
 A video learning platform with custom controls and progress tracking.
 
