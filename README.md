@@ -164,7 +164,7 @@ Each project has its own setup and run instructions. Please refer to the individ
 
 ## 📞 Contact
 
-For any questions or feedback, please reach out to [Muhammed Suhail] at [msuhailcmdemail@example.com].
+For any questions or feedback, please reach out to [Muhammed Suhail] at [msuhailcmd@gmail.com].
 
 ---
 
